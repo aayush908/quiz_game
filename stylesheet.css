@@ -1,0 +1,83 @@
+body {
+     background-image:url("doon2.PNG");
+    font-family: Open Sans;
+    background-color:;
+}
+
+h1 {
+    text-align: center;
+    color:  yellow;
+}
+
+input{
+    background-color: rgb(4, 53, 95);
+    text-fill-color: yellow;
+}
+     
+}
+
+#title {
+    text-decoration: ;
+}
+
+#quiz {
+    text-indent: 10px;
+    display:none;
+}
+
+.button {
+    border:4px solid;
+    border-radius:5px;
+    width: 40px;
+    padding-left:5px;
+    padding-right: 5px;
+    position: relative;
+    float:right;
+    background-color: red;
+    color: black;
+    margin: 0 2px 0 2px;
+}
+
+.button.active {
+    background-color: #F8F8FF;
+    color: #525252;
+}
+
+button {
+    position: relative;
+    float:right;
+}
+
+.button a {
+    text-decoration: none;
+    color: black;
+}
+
+#container {
+    width:60%;
+    margin:auto;
+    padding: 0 25px 40px 10px;
+    background-image: url("doonlogo.JPG");
+  
+    background-color: #832dc0;
+    border:8px solid #bb5920;
+    border-radius:5px;
+    color: rgb(15, 15, 15);
+    font-weight: bold;
+    box-shadow: 5px 5px 5px #888;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#prev {
+    display:none;
+}
+
+#start {
+    display:none;
+    width: 90px;
+}
